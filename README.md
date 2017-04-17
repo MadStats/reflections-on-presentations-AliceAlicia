@@ -13,7 +13,7 @@ What were aspects of the presentation that you liked:
 
 What were aspects of the presentations for which you had concerns or questions: 
 
-1.Categorical variables are difficult to deal with, with so many predictors, and harder for us to explain their effects directly
+1.Categorical variables are difficult to deal with, with so many predictors, and harder for us to explain their effects directly.
 2.The residual plot seems not so satisfying.
  
 
@@ -25,7 +25,7 @@ Title of presentation:Mass Shooting
 What were aspects of the presentation that you liked: 
 
 1.The graphing displayed in the presentation are attractive.
-2.Their discovery is on point 
+2.Their discovery is on point.
 
 What were aspects of the presentations for which you had concerns or questions:
 
@@ -44,7 +44,7 @@ What were aspects of the presentation that you liked:
 2.Nice comparisons are made in their presentation.
 
 What were aspects of the presentations for which you had concerns or questions:
-What is reported versus What is true behind
+What is reported versus What is true behind report?
 
 
 
@@ -59,6 +59,7 @@ What were aspects of the presentation that you liked:
 
 
 What were aspects of the presentations for which you had concerns or questions:
+
 1.They didn't evaluate the performance of their model. 
 2.I'm wondering behind the yelp data whether there exists credible pattern of making choices indeed since it's somewhat a complicated problems concerning all kinds of personal reasons.
 3.Interaction should be significant as I think people consider multiple factors when they make decisions.
