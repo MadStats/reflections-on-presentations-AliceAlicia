@@ -126,18 +126,16 @@ Detailed data description.
 
 
 What were aspects of the presentations for which you had concerns or questions:
-
-
+If there exists colinearity in the model?
 
 ----------------------------------------------------------------------------------------------------------------
 
 Title of presentation: NBA analysis
 
 What were aspects of the presentation that you liked: 
-1.Detailed explanation about the missing value treatment
-2.Pretty satisfied with the explanation for the strange line in the residual plot~
+Great visualization and interesting topic.
 
-What were aspects of the presentations for which you had concerns or questions:
+What were aspects of the presentations for which you had concerns or questions: For a non-player it's not easy to understand some of your variables and their relationship with the response.
 
 
 
@@ -149,11 +147,12 @@ What were aspects of the presentations for which you had concerns or questions:
 
 Title of presentation: Terrorism
 
-What were aspects of the presentation that you liked:the time-varying plot is amazing.
+What were aspects of the presentation that you liked:
+the time-varying plot is amazing.
 
 What were aspects of the presentations for which you had concerns or questions:
-It's a little bit confusing if too much information is put on the same graph.
-Prediction of the number of people die in attacks is somewhat not applicable.
+1.It's a little bit confusing if too much information is put on the same graph.
+2.Prediction of the number of people die in attacks is somewhat not applicable.
 
 
 
