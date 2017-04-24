@@ -81,31 +81,79 @@ How does the past crimes influence the current crimes historically? The problem 
 
 ----------------------------------------------------------------------------------------------------------------
 
-Title of presentation: 
-What were aspects of the presentation that you liked:
+Title of presentation: Game
 
-What were aspects of the presentations for which you had concerns or questions:
+What were aspects of the presentation that you liked: 
+Interesting idea! Special visulizasion.
 
-
-
-
-----------------------------------------------------------------------------------------------------------------
-
-Title of presentation: 
-What were aspects of the presentation that you liked:
-
-What were aspects of the presentations for which you had concerns or questions:
+What were aspects of the presentations for which you had concerns or questions: 
+The model is not specific and clear enough? How exactly does the model work? 
 
 
 
 
 ----------------------------------------------------------------------------------------------------------------
 
-Title of presentation: 
-What were aspects of the presentation that you liked:
+Title of presentation: H1B
+
+What were aspects of the presentation that you liked: Clear comparisons and directive subject.
+
+What were aspects of the presentations for which you had concerns or questions: 
+A little bit confused about the "cluster analysis" maps.
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+Title of presentation: Traffic
+
+What were aspects of the presentation that you liked: 
+1.Detailed explanation about the missing value treatment
+2.Pretty satisfied with the explanation for the strange line in the residual plot~
+
+What were aspects of the presentations for which you had concerns or questions:
+Other types of regressions can be considered.
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+Title of presentation: Songs
+
+What were aspects of the presentation that you liked: 
+Detailed data description.
+
 
 What were aspects of the presentations for which you had concerns or questions:
 
+
+
+----------------------------------------------------------------------------------------------------------------
+
+Title of presentation: NBA analysis
+
+What were aspects of the presentation that you liked: 
+1.Detailed explanation about the missing value treatment
+2.Pretty satisfied with the explanation for the strange line in the residual plot~
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+Title of presentation: Terrorism
+
+What were aspects of the presentation that you liked:the time-varying plot is amazing.
+
+What were aspects of the presentations for which you had concerns or questions:
+It's a little bit confusing if too much information is put on the same graph.
+Prediction of the number of people die in attacks is somewhat not applicable.
 
 
 
